@@ -1,8 +1,6 @@
-# TrackMe-mobilapp
+# TrackMe Mobile
 
 React Native mobile application repository for TrackMe.
-
-This repository is intentionally initialized without screens, pages, or application code.
 
 Planned stack:
 
@@ -10,3 +8,7 @@ Planned stack:
 - Android
 - iOS
 - TrackMe API integration
+
+Repository:
+
+`https://github.com/fatihkesik01/TrackMe-mobile`
