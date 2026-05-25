@@ -11,4 +11,4 @@ Planned stack:
 
 Repository:
 
-`https://github.com/fatihkesik01/TrackMe-mobile`
+`https://github.com/fatihkesik01/TrackMe-Mobile`
